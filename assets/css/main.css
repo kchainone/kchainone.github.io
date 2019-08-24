@@ -3308,7 +3308,7 @@ input[type="button"].btn-block {
   white-space: nowrap; }
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
-.navbar-brand.img{
+.navbar-brand img{
     max-width: 150px;
 }
 .navbar-nav {
