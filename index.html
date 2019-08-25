@@ -81,7 +81,7 @@ description: ""
         {%- assign third_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-4 lastest_post_imgbox">
                 <a href="{{site.baseurl}}{{third_post.url}}">
                  <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
