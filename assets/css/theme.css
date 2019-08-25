@@ -826,3 +826,7 @@ article blockquote{
     border-left: 4px solid #ff0000/*rgb(58, 213, 45); */;
     padding: 0 2em;
 }
+article h2 {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
