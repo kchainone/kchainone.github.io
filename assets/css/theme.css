@@ -207,6 +207,9 @@ a.text-dark:hover {
 	font-size:1.55rem;
     font-family:"PingFangSC-light","Helvetica Neue","Microsoft YaHei",Optima-Regular, PingFangTC-light,"Georgia","Times New Roman",serif;
 }
+.foot-sitename{
+    font-size:1.2rem;
+}
 .dropdown-item {
 	font-weight:400;
 }
