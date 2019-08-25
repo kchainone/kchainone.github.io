@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Jekyll"
 author: jane
-categories: [ Jekyll, tutorial, 超入门 ]
+categories: [ Jekyll, tutorial, primer ]
 image: assets/images/3.jpg
 ---
 
