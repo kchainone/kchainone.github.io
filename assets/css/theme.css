@@ -675,6 +675,7 @@ article blockquote {
 	font-style:italic;
 	position:relative;
 }
+/*
 article blockquote:before {
 	content:"“";
 	font-family:Georgia;
@@ -685,6 +686,7 @@ article blockquote:before {
 	float:left;
 	line-height:1;
 }
+*/
 /*article:first-letter {
 	float:left;
 	font-size:5em;
