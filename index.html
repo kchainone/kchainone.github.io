@@ -54,7 +54,7 @@ description: ""
         {%- assign second_post = site.posts[1] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-4  lastest_post_imgbox">
                 <a href="{{site.baseurl}}{{second_post.url}}">
                  <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
                 </a>
@@ -108,7 +108,7 @@ description: ""
         {%- assign fourth_post = site.posts[3] -%}
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-4  lastest_post_imgbox">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
                 <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
