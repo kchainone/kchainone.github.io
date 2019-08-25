@@ -19,11 +19,19 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
+    fangjun:
+      name:           方军
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "方军，著有《平台时代》《区块链超入门》"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+
+    kfriends:
+      name:           快链的朋友们
+      site:           https://www.wowthemes.net
+      avatar:
+      bio:            "方军，著有《平台时代》《区块链超入门》"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 

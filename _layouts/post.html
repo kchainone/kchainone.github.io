@@ -110,7 +110,7 @@ layout: default
             
             
              <!-- Author Box -->
-                {% if page.author %}				
+                {% if page.author and page.author !=kfriends %}
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
                          {% if author.avatar %}
@@ -139,12 +139,12 @@ layout: default
         <div class="row prevnextlinks small font-weight-bold">
           {% if page.previous.url %}
             <div class="col-md-6 rightborder pl-0">
-                <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}">{% if page.previous.image %} <img height="30px" class="mr-1" src="{{site.baseurl}}/{{page.previous.image}}"> {% endif %} {{page.previous.title}}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ page.next.url }}"> {{page.next.title}} {% if page.next.image %} <img height="30px" class="ml-1" src="{{site.baseurl}}/{{page.next.image}}"> {% endif %}</a>
             </div>
           {% endif %}
           {% if page.next.url %}
             <div class="col-md-6 text-right pr-0">
-                <a class="text-dark" href="{{ site.baseurl }}{{ page.next.url }}"> {{page.next.title}} {% if page.next.image %} <img height="30px" class="ml-1" src="{{site.baseurl}}/{{page.next.image}}"> {% endif %}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}">{% if page.previous.image %} <img height="30px" class="mr-1" src="{{site.baseurl}}/{{page.previous.image}}"> {% endif %} {{page.previous.title}}</a>
             </div>
           {% endif %}
         </div>
