@@ -59,7 +59,11 @@ defaults:
       path: "_pages"
     values:
       layout: page
-      
+
+collections:
+  block100:
+    output: true
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
