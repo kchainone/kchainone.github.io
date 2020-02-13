@@ -2,6 +2,7 @@
 layout: post
 title:  "区块链数字票据交易平台"
 author: jane
+image: block100/block100images/commercialbill02.png
 categories: [ Jekyll, tutorial ]
 tags: 
 description: Bucharest’s  its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler. # Add post description (optional)
@@ -88,7 +89,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 ![票据](/block100/block100images/commercialbill02.png)
 
-###链外结算模式下数字票据的交易四个步骤
+### 链外结算模式下数字票据的交易四个步骤
 
 > 第一步:商业银行A就所持有的数字票据SDD-1发起转贴现交易申请,改写SDD-1智能合约中的交易状态为转贴现待交易,并写入转贴现的种类及期望的转贴现利率;此后,银行A不能再对该票做其他操作(此步骤发生在链上)。
 > 
@@ -98,7 +99,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 > 
 > 第四步:数字票据交易所,完成并关闭数字票据SDD-1的转贴现签收交易,票据持有人被让渡给商业银行B(此步骤发生在链上)。
 
-###链上直接清算模式下数字票据的交易三个步骤
+### 链上直接清算模式下数字票据的交易三个步骤
 
 “为了实现资金流和信息流的合二为一,简化交易流程,达到DVP券款对付(Delivery versus Payment)的目的,我们还设计了链上直接清算的方案:引入央行数字货币,发挥数字货币的支付结算功能。”这实现了，“交易的全部过程全部在区块链上完成,不涉及任何的链下步骤。”
 
@@ -136,6 +137,6 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 参考资料：
 1. 徐忠,姚前.数字票据交易平台初步方案[J].中国金融,2016(17):31-33.
-2. 上海票据交易所，百度百科，https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E7%A5%A8%E6%8D%AE%E4%BA%A4%E6%98%93%E6%89%80/20266260，上海票据交易所网站：http://www.shcpe.com.cn/
-3. 票据法（2004年修正），百度百科，https://baike.baidu.com/item/%E7%A5%A8%E6%8D%AE%E6%B3%95/6883761
-4. 票据入门手册，华创证券，2018年12月，https://baike.baidu.com/tashuo/browse/content?id=0973544b76d49226d77cdc4e
+2. 上海票据交易所，[百度百科](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E7%A5%A8%E6%8D%AE%E4%BA%A4%E6%98%93%E6%89%80/20266260)，，上海票据交易所网站：http://www.shcpe.com.cn/
+3. 票据法（2004年修正），[百度百科](https://baike.baidu.com/item/%E7%A5%A8%E6%8D%AE%E6%B3%95/6883761)，
+4. 票据入门手册，华创证券，2018年12月，[文章链接](https://baike.baidu.com/tashuo/browse/content?id=0973544b76d49226d77cdc4e)
