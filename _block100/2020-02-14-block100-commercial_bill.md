@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "区块链数字票据交易平台"
+title:  "场景：区块链数字票据交易平台"
 author: jane
 image: block100/block100images/commercialbill02.png
 categories: [ Jekyll, tutorial ]
 tags: 
 description: Bucharest’s  its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler. # Add post description (optional)
 ---
+场景类别：金融科技
 
 票据是适合使用区块链技术的金融场景。早在2016年9月，姚前就在《中国金融》杂志发表一篇论文《数字票据交易平台初步方案》<sup>1</sup>，另一作者为徐忠，时任中国人民银行金融市场司巡视员兼票据交易平台筹备组组长。上海票据交易所于2016年12月8日开业运营，具备票据报价交易、登记托管、清算结算、信息服务等功能，并承担中央银行货币政策再贴现操作等政策职能<sup>2</sup>。
 
