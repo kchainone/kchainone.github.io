@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "场景：区块链数字票据交易平台"
+title:  "场景：数字票据交易平台"
 author: jane
 image: block100/block100images/commercialbill02.png
 categories: [ Jekyll, tutorial ]
