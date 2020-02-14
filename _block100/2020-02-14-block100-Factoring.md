@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "场景：供应链保理业务"
+title:  "场景：供应链金融保理业务"
 author: jane
-image: block100/block100images/factoring01.png
+image: block100/block100images/factoring02.png
 categories: [ Jekyll, tutorial ]
 tags: 
 description: Bucharest’s  its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler. # Add post description (optional)
@@ -53,6 +53,8 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 姚前指出，”保理商使用数字货币放款给卖方，买方使用数字货币支付贸易款项给保理商作为融资回款。各方统一基于数字货币付款，能够简化保理商系统对接和操作处理成本，便于保理商对卖方资金进行监管。“<sup>1</sup>
 
 ### 进阶功能：采用链上的智能合约（支付合约）进行回款
+
+![区块链供应链保理平台](/block100/block100images/factoring02.png)
 
 这在不变更还款路径的前提下，消除卖方信用风险。参考姚前的设想<sup>1</sup>，我们调整并设计建立一个“区块链供应链保理平台”，采用数字货币支付后，全部的保理业务流程均在链上进行：
 
