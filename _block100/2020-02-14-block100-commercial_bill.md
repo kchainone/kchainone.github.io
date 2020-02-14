@@ -134,6 +134,8 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 4. 通过图示我们也可以看到，采用了区块链索引与交易系统后，可以将企业、央行都引入作为其中的参与方，因此，票据市场的一级市场（票据签发、票据承兑）、二级市场（背书转让、票据直贴、票据转帖、票据再贴现）均可以依托区块链来完成。这也正是区块链的组织模型：“**通过链的多方合作**”。
 
+![平行的链](/block100/block100images/commercialbill03.png)
+「平行的链」应用模型
 
 
 参考资料：
