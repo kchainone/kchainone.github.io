@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "场景：供应链金融之保理业务"
+title:  "场景：供应链保理业务"
 author: jane
 image: block100/block100images/factoring01.png
 categories: [ Jekyll, tutorial ]
