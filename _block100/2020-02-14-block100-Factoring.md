@@ -48,7 +48,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 ![保理业务](/block100/block100images/factoring01.png)
 
-## 在保理业务中应用数字货币
+## 区块链供应链保理平台：应用数字货币
 
 ### 基础功能：统一使用数字货币进行支付
 
