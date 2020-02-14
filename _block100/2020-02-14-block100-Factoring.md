@@ -72,7 +72,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 3.买方向“应收账款通证”付款，此时收款账号仍为卖方。
 
-3.1 卖方用数字货币向“应收账款通证”付款（链上进行）。
+3.1 买方用数字货币向“应收账款通证”付款（链上进行）。
 
 3.2 “应收账款通证”的支付合约，按照规则执行支付，保证资金转付给保理商（链上进行）。
 
