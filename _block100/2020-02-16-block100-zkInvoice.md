@@ -129,6 +129,8 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 ![应用系统对接](/block100/block100images/Tencent-TBaas.png)
 
+也可以采用Hyperledger的SDK，见[TBaaS文档](https://cloud.tencent.com/document/product/663/30536)。
+
  对比而言，亚马逊AWS的区块链服务（[Amazon Managed Blockchain](https://aws.amazon.com/cn/managed-blockchain/)）提供了两种区块链引擎：
  
  - Hyperledger Fabric
