@@ -92,7 +92,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 结合近期的zkRollup与之前的混币技术，这里设计一个第二层协议（Layer 2 Protocol，L2，这里称”发票链“），用zkRollup来提升性能，用混币来保护商业隐私。
 
-![零知识证明方案](/block100/block100images/zkInvoice-01.png)
+![零知识证明方案](/block100/block100images/zkInvoice-02.png)
 
 - 开发一个zkRollup，即建立一条侧链，用CALLDATA将零知识证明上链。因此，在底层链上，其他人无法获知交易信息。此侧链网络由多个节点参与方运维。
 
