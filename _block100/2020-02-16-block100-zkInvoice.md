@@ -9,7 +9,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 ---
 场景类别：金融科技
 
-腾讯等公司在深圳协助建立区块链电子发票系统，目前已经开票超过1000万张以上，它所采用的底层链是腾讯的TrustSQL联盟链。
+腾讯等公司在深圳协助建立区块链电子发票系统，目前已经开票超过1000万张以上，它所采用的底层链是腾讯的TrustSQL联盟链<sup>1,2,3</sup>。
 
 那么，是否可以采用公链技术来开发一个发票协议呢？如下是一个设想。
 
@@ -84,7 +84,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 税务机关进行税务核查，可以查阅相关信息；
 企业聘请的会计师审计时获得授权查看原始信息。
 
-实际上，采用联盟链并不能解决此问题。采用联盟链，可以确保外部无人能够获知相关信息，但如果内部有坏人怎么办？在联盟链内采用多重的权限控制可以部分解决这个问题，也可以采用如平安壹帐链所提出的字段级加密，问题是被攻破怎么办？
+实际上，采用联盟链并不能解决此问题。采用联盟链，可以确保外部无人能够获知相关信息，但如果内部有坏人怎么办？在联盟链内采用多重的权限控制可以部分解决这个问题，也可以采用如平安壹帐链所提出的字段级加密<sup>4</sup>。
 
 是否有更优雅的解决方案，在原理上实现”**绝对的商业隐私保护**“？
 
@@ -114,6 +114,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 1. 区块链电子发票与增值税电子发票的区别, 2018.08.14,https://cloud.tencent.com/developer/news/298696
 2. 腾讯区块链电子发票，区块链产业应用100例（火币研究院），2019.12 
 3. 腾讯强攻区块链电子发票，界面新闻，2019.08.19, https://www.jiemian.com/article/3417807.html 
+4. https://baas.yizhangtong.com/
 
 
 附录：腾讯云区块链TBaaS
