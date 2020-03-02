@@ -3,7 +3,7 @@ layout: post
 title:  "设想：区块链发票协议"
 author: jane
 image: block100/images/zkInvoice-01.png
-categories: [ Jekyll, tutorial ]
+categories: [ Block100 ]
 tags: 
 order_number: 2
 description: Bucharest’s  its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler. # Add post description (optional)

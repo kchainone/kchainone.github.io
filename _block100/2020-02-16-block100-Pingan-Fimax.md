@@ -3,7 +3,7 @@ layout: post
 title:  "系统：平安壹账链"
 author: jane
 image: block100/images/fimaxs3-feature.png
-categories: [ Jekyll, tutorial ]
+categories: [ Block100 ]
 tags: 
 order_number: 1
 description: Bucharest’s  its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler. # Add post description (optional)
