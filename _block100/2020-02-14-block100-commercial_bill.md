@@ -2,7 +2,7 @@
 layout: post
 title:  "场景：数字票据交易平台"
 author: jane
-image: block100/block100images/commercialbill02.png
+image: block100/images/commercialbill02.png
 categories: [ Jekyll, tutorial ]
 tags: 
 order_number: 4
@@ -35,7 +35,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 （分类参见下图，请注意，我国票据法规定，本票仅为银行本票。在我国使用的汇票中，需要进行承兑的主要为商业汇票。商业汇票分纸质汇票与电子汇票两种，自2018年1月1日起，原则上单张出票金额在100万以上的商业汇票必须全部通过电票办理。）
 
-![票据](/block100/block100images/commercialbill01.png)
+![票据](/block100/images/commercialbill01.png)
 
 票据具有如下经济功能：
 
@@ -89,7 +89,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 以转贴现交易为例，他们详细阐述了数字票据平台“链外清算方案”与“链上直接清算方案”。
 
-![票据](/block100/block100images/commercialbill02.png)
+![票据](/block100/images/commercialbill02.png)
 
 ### 链外结算模式下数字票据的交易四个步骤
 
@@ -135,7 +135,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 4. 通过图示我们也可以看到，采用了区块链索引与交易系统后，可以将企业、央行都引入作为其中的参与方，因此，票据市场的一级市场（票据签发、票据承兑）、二级市场（背书转让、票据直贴、票据转帖、票据再贴现）均可以依托区块链来完成。这也正是区块链的组织模型：“**通过链的多方合作**”。
 
-![平行的链](/block100/block100images/commercialbill03.png)
+![平行的链](/block100/images/commercialbill03.png)
 「平行的链」应用模型
 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "场景：供应链金融保理业务"
 author: jane
-image: block100/block100images/factoring02.png
+image: block100/images/factoring02.png
 categories: [ Jekyll, tutorial ]
 tags: 
 order_number: 3
@@ -47,7 +47,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 但在实际操作中，买方企业的财务制度一般要求买方付款对象必须和发票的出票方一致。会形成如下的操作：买方付款给卖方，卖方再付款给保理商。这种模式下，保理商面临卖方信用风险。
 
-![保理业务](/block100/block100images/factoring01.png)
+![保理业务](/block100/images/factoring01.png)
 
 ## 区块链供应链保理平台：应用数字货币
 
@@ -57,7 +57,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 ### 进阶功能：采用链上的智能合约（支付合约）进行回款
 
-![区块链供应链保理平台](/block100/block100images/factoring02.png)
+![区块链供应链保理平台](/block100/images/factoring02.png)
 
 这在不变更还款路径的前提下，消除卖方信用风险。参考姚前的设想<sup>1</sup>，我们调整并设计建立一个“区块链供应链保理平台”，采用数字货币支付后，全部的保理业务流程均在链上进行：
 

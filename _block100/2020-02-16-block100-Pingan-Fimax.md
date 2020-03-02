@@ -2,7 +2,7 @@
 layout: post
 title:  "系统：平安壹账链"
 author: jane
-image: block100/block100images/fimaxs3-feature.png
+image: block100/images/fimaxs3-feature.png
 categories: [ Jekyll, tutorial ]
 tags: 
 order_number: 1
@@ -37,7 +37,7 @@ FiMAX四个功能模块分别是(S3C由FiMAX四个功能模块首字母组成)�
 - Cathaya：区块链隐私保护模块
 - Concord：区块链网络管理模块
 
-![FiMAX](/block100/block100images/fimaxs3carchitecture.png)
+![FiMAX](/block100/images/fimaxs3carchitecture.png)
 FiMAX总体架构(2020年2月获取)
 
 考虑到中国的应用场景，FiMAX对国密算法进行了很好的支持。
@@ -60,7 +60,7 @@ FiMAX总体架构(2020年2月获取)
 
 此技术保证数据拥有方可根据自己的意愿来决定哪个参与方在什么时候能看到或修改哪个字段的数据，在不泄露其它信息的情况下实现精准的数据分享，数据所有方对自有数据拥有完全的所有权和掌控权，而无数据隐私之忧。
 
-![FiMAX](/block100/block100images/fimaxs3-encrypt.png)
+![FiMAX](/block100/images/fimaxs3-encrypt.png)
 
 ### 2. 3D零知识证明
 
@@ -74,7 +74,7 @@ FiMAX总体架构(2020年2月获取)
 
 任何参与方都可以做数据的交叉匹配验证来检测贸易的真实性（例如：发票金额=货物数量x单价）。
 
-![FiMAX](/block100/block100images/fimaxs3-3dzk.png)
+![FiMAX](/block100/images/fimaxs3-3dzk.png)
 
 ### 区块链网络即服务平台
 
@@ -108,11 +108,11 @@ FiMAX区块链框架的一个有争议的创新是：无区块架构。
 
 它的整体设计是，以各业务参与方及其之间的业务关系为基础，同时叠加上区块链的分布式账本，以展示区块链技术在信息的传递、信任的建立、流程的协同等方面所能带来的帮助。
 
-![FiMAX](/block100/block100images/fimaxs3-trade.png)
+![FiMAX](/block100/images/fimaxs3-trade.png)
 
 它提供了一个设想性跨境贸易案例如下<sup>2</sup>：
 
-![FiMAX](/block100/block100images/fimaxs3-trade-example.png)
+![FiMAX](/block100/images/fimaxs3-trade-example.png)
 
 ### 基于一笔假设业务的案例说明
 下文描述了一笔基于区块链通关的完整业务过程，介绍了奶粉如何从德国出口至中国。案例中的商业主体名称均为虚构，不代表任何真实组织。

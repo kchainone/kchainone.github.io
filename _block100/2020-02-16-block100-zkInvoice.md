@@ -2,7 +2,7 @@
 layout: post
 title:  "设想：区块链发票协议"
 author: jane
-image: block100/block100images/zkInvoice-01.png
+image: block100/images/zkInvoice-01.png
 categories: [ Jekyll, tutorial ]
 tags: 
 order_number: 2
@@ -30,7 +30,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 > 
 > （4）收票企业验收发票，锁定链上发票状态，审核入账，更新链上发票状态，最后支付报销款。
 
-![腾讯区块链电子发票业务流程示意图](/block100/block100images/tencent-fapiao.png)
+![腾讯区块链电子发票业务流程示意图](/block100/images/tencent-fapiao.png)
 
 接下来，我们将该流程在区块链中表示。
 
@@ -40,7 +40,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 - 受票方（即发票抬头）
 - 发票信息（商品信息，金额，日期等）
 
-![发票流程](/block100/block100images/zkInvoice-01.png)
+![发票流程](/block100/images/zkInvoice-01.png)
 
 那么，在税务机关的监管下，一张发票开出到报销完成的流转流程如下，这里仅考虑发票的流动：
 
@@ -95,7 +95,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 结合近期的zkRollup与之前的混币技术，这里设计一个第二层协议（Layer 2 Protocol，L2，这里称”发票链“），用zkRollup来提升性能，用混币来保护商业隐私。
 
-![零知识证明方案](/block100/block100images/zkInvoice-02.png)
+![零知识证明方案](/block100/images/zkInvoice-02.png)
 
 - 开发一个zkRollup，即建立一条侧链，用CALLDATA将零知识证明上链。因此，在底层链上，其他人无法获知交易信息。此侧链网络由多个节点参与方运维。
 
@@ -128,7 +128,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 
 它的应用系统对接如下图：
 
-![应用系统对接](/block100/block100images/Tencent-TBaas.png)
+![应用系统对接](/block100/images/Tencent-TBaas.png)
 
 也可以采用Hyperledger的SDK，见[TBaaS文档](https://cloud.tencent.com/document/product/663/30536)。
 
