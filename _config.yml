@@ -48,7 +48,7 @@ defaults:
 
   # all posts
   - scope:
-      path: "_posts"
+      path: "_posts","_block100"
     values:
       layout: post
       author: sal
