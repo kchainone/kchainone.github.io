@@ -13,7 +13,7 @@ permalink: "/block100.html"
 
 
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-{% for post in site.posts | sort: 'order_number'%}
+{% for post in site.posts %}
 {% if post.tags contains "sticky" %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
@@ -45,7 +45,7 @@ permalink: "/block100.html"
         
         <h4 class="font-weight-bold spanborder"><span>区块链技术图解100</span></h4>
         
-        {% for post in site.block100 %}
+        {% for post in site.block100  | sort: 'order_number'%}
 
             {% include main-loop-card.html %}
         
