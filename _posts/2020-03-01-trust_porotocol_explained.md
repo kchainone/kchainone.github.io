@@ -3,7 +3,7 @@ layout: post
 title:  "区块链是第六代的信任协议"
 author: fangjun
 categories: [ Thinking ]
-image: posts/images/14.jpg
+image: assets/images/14.jpg
 tags: featured
 ---
 
@@ -33,7 +33,7 @@ tags: featured
 
 要理解作为一种信任协议的区块链，最好的办法是回顾它是如何一路走过来。
 
-![六代信任协议](/posts/images/trust_protocols.png)
+![六代信任协议](/assets/postimages/trust_protocols.png)
 图：六代信任协议
 
 ## 六代信任协议：从血缘关系到区块链
