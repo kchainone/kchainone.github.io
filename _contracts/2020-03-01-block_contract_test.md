@@ -30,7 +30,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 > 
 > （4）收票企业验收发票，锁定链上发票状态，审核入账，更新链上发票状态，最后支付报销款。
 
-![腾讯区块链电子发票业务流程示意图](/block100/block100images/tencent-fapiao.png)
+![腾讯区块链电子发票业务流程示意图](/contracts/images/tencent-fapiao.png)
 
 接下来，我们将该流程在区块链中表示。
 
@@ -40,7 +40,7 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 - 受票方（即发票抬头）
 - 发票信息（商品信息，金额，日期等）
 
-![发票流程](/contracts/block100images/zkInvoice-01.png)
+![发票流程](/contracts/images/zkInvoice-01.png)
 
 那么，在税务机关的监管下，一张发票开出到报销完成的流转流程如下，这里仅考虑发票的流动：
 
