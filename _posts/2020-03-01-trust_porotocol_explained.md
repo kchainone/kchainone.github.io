@@ -3,7 +3,7 @@ layout: post
 title:  "区块链是第六代的信任协议"
 author: fangjun
 categories: [ Thinking ]
-image: assets/images/14.jpg
+image: assets/postimages/handshake-3382503_1280.jpg
 tags: featured
 ---
 
