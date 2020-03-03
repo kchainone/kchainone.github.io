@@ -5,8 +5,7 @@ author: jane
 image: block100/images/commercialbill02.png
 categories: [ Block100 ]
 tags: 
-order_number: 4
-description: Bucharest’s  its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler. # Add post description (optional)
+description: 票据是适合使用区块链技术的金融场景。
 ---
 场景类别：金融科技
 
@@ -144,3 +143,12 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 2. 上海票据交易所，[百度百科](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E7%A5%A8%E6%8D%AE%E4%BA%A4%E6%98%93%E6%89%80/20266260)，，上海票据交易所网站：http://www.shcpe.com.cn/
 3. 票据法（2004年修正），[百度百科](https://baike.baidu.com/item/%E7%A5%A8%E6%8D%AE%E6%B3%95/6883761)，
 4. 票据入门手册，华创证券，2018年12月，[文章链接](https://baike.baidu.com/tashuo/browse/content?id=0973544b76d49226d77cdc4e)
+
+---
+![场景案例100](/contracts/images/casedoc.png)
+
+快知区块链报告 - 区块链场景案例100 
+
+**场景：数字票据交易平台**，2020年2月20日，V0.1.0
+
+---

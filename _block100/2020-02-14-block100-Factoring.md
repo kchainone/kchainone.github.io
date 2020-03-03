@@ -5,12 +5,11 @@ author: jane
 image: block100/images/factoring02.png
 categories: [ Block100 ]
 tags: 
-order_number: 3
-description: Bucharest’s  its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler. # Add post description (optional)
+description: 保理业务针对供应链企业具有封闭性、且保理商对业务过程控制力较强，比较适合数字货币试点。
 ---
 场景类别：金融科技，供应链金融
 
-保理业务的主要形态为应收转款转让融资。姚前调研指出，”保理业务针对供应链企业具有封闭性、且保理商对业务过程控制力较强，比较适合数字货币试点。“<sup>1</sup>
+保理业务的主要形态为应收转款转让融资。姚前调研指出，“保理业务针对供应链企业具有封闭性、且保理商对业务过程控制力较强，比较适合数字货币试点。”<sup>1</sup>
 
 ## 供应链金融保理业务
 
@@ -108,3 +107,12 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 参考资料：
 1. 姚前.数字货币初探[M].中国金融出版社:北京,2018:326.
 2. 四大模式 | 供应链金融保理业务最全解析，梁俊丽（西政资本），[百度百科](https://baike.baidu.com/tashuo/browse/content?id=e8676af1bd25b8b8aa1c6280&lemmaId=3047248)
+
+---
+![场景案例100](/contracts/images/casedoc.png)
+
+快知区块链报告 - 区块链场景案例100 
+
+**场景：供应链金融保理业务**，2020年2月20日，V0.1.0
+
+---

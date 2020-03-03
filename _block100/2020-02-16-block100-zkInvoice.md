@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "设想：区块链发票协议"
+title:  "场景：区块链发票协议"
 author: jane
 image: block100/images/zkInvoice-01.png
 categories: [ Block100 ]
 tags: 
-order_number: 2
-description: Bucharest’s  its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler. # Add post description (optional)
+description: 腾讯等公司在深圳协助建立区块链电子发票系统，目前已经开票超过1000万张以上。那么，是否可以采用公链技术来开发一个发票协议呢？
 ---
 场景类别：金融科技
 
@@ -117,6 +116,14 @@ description: Bucharest’s  its consolidation as the national capital of Romania
 3. 腾讯强攻区块链电子发票，界面新闻，2019.08.19, https://www.jiemian.com/article/3417807.html 
 4. https://baas.yizhangtong.com/
 
+---
+![场景案例100](/contracts/images/casedoc.png)
+
+快知区块链报告 - 区块链场景案例100 
+
+**场景：区块链发票协议**，2020年2月20日，V0.1.0
+
+--- 
 
 ### 附录：腾讯云区块链TBaaS
 
