@@ -145,7 +145,7 @@ description: 票据是适合使用区块链技术的金融场景。
 4. 票据入门手册，华创证券，2018年12月，[文章链接](https://baike.baidu.com/tashuo/browse/content?id=0973544b76d49226d77cdc4e)
 
 ---
-![场景案例100](/contracts/images/casedoc.png)
+![场景案例100](/block100/images/casedoc.png)
 
 快知区块链报告 - 区块链场景案例100 
 
