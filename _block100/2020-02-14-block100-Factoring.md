@@ -106,6 +106,7 @@ description: 保理业务针对供应链企业具有封闭性、且保理商对�
 
 参考资料：
 1. 姚前.数字货币初探[M].中国金融出版社:北京,2018:326.
+
 2. 四大模式 | 供应链金融保理业务最全解析，梁俊丽（西政资本），[百度百科](https://baike.baidu.com/tashuo/browse/content?id=e8676af1bd25b8b8aa1c6280&lemmaId=3047248)
 
 ---
