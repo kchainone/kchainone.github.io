@@ -35,12 +35,10 @@ permalink: "/thinking.html"
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>区块链技术图解100</span></h4>
-        
-        {% for post in site.block100 %}
+        <h4 class="font-weight-bold spanborder"><span>最新区块链洞察</span></h4>
 
-            {% include main-loop-card.html %}
-        
+        {% for post in site.categories.Thinking %}
+        {% include main-loop-card.html %}
         {% endfor %}
         
         <div class="mt-5">
