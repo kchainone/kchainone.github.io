@@ -4,6 +4,7 @@ title:  "区块链变革商业：从平台到社区"
 author: fangjun
 categories: [ Thinking ]
 image: assets/postimages/friendship-2366955_1280.jpg
+tags: featured
 ---
 
 互联网产业过去25年的大发展带来了众多的互联网平台。现在，全球市值排名前十的是苹果、谷歌、亚马逊、阿里巴巴、腾讯等互联网平台。作为新一代的互联网技术，区块链将给商业组织带来什么样的变革呢？
