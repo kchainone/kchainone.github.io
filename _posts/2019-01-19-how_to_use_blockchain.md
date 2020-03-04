@@ -6,7 +6,7 @@ categories: [ Thinking, primer ]
 image: assets/postimages/child-1864718_640.jpg
 ---
 
-区块链可做确权工具、存证平台、协作协议、金融网络。
+区块链可做确权工具、存证平台、通证经济、金融网络。
 
 ![区块链用途](/assets/postimages/blockchain_usage.png)
 
