@@ -2,7 +2,7 @@
 layout: post
 title:  "图解：区块链应用的四个层次"
 author: fangjun
-categories: [ Thing, primer ]
+categories: [ Thinking, primer ]
 image: assets/postimages/child-1864718_640.jpg
 ---
 
