@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 书摘：中本聪为什么创造比特币？
-author: jane
+author: fangjun
 categories: [ primer ]
 image: assets/postimages/dollar-1362244_640.jpg
 tags: 
