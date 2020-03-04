@@ -6,11 +6,14 @@ categories: [ Thinking, primer ]
 image: assets/postimages/child-1864718_640.jpg
 ---
 
-「根据方军2020年3月1日的分享整理」
+区块链可做确权工具、存证平台、协作协议、金融网络。
 
 ![区块链用途](/assets/postimages/blockchain_usage.png)
 
+「根据方军2020年3月1日的分享整理」
+
 对于「区块链是什么」，我们逐渐形成了一个四个词的说法：
+
 - 区块链是「全球账本」，
 - 区块链是「事实机器」，
 - 区块链是「信任协议」，
