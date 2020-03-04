@@ -6,7 +6,7 @@ categories: [ primer ]
 image: assets/postimages/railway-station-1653817_640.jpg
 ---
 
-![区块链四个词](/assets/postimages/rblockchain_4lines.jpeg)
+![区块链四个词](/assets/postimages/blockchain_4lines.jpeg)
 
 ## 世界账本 Word Wide Ledger
 
