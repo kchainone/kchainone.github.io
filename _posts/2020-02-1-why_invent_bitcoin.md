@@ -65,6 +65,6 @@ description:
 
 中本聪设计和编码实现的比特币这个电子现金系统，至今运转近十年。比特币系统已经从一个技术玩具变成一个运转得近乎完美的系统，并且看起来还将长期稳定运转下去。 
 
-![image](/assets/postimages/bitcoin_layer.png.png)
+![image](/assets/postimages/bitcoin_layer.png)
 图：一张图看清比特币与区块链
 
