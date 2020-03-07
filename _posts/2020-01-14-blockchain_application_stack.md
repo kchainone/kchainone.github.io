@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "图解：区块链应用堆栈（Blockchain Application Stack）"
-author: fangjun
+author: jane
 categories: [ primer ]
 image: assets/postimages/books-3322275_1280.jpg
 ---
