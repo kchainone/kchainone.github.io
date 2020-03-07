@@ -14,7 +14,7 @@ image: assets/postimages/books-3322275_1280.jpg
 
 - 简单的有“胖协议”所说的，仅分为协议与应用两层。在2020年他们又提出了“瘦应用”的新理念。
 
-- 复杂的有MultiCoin基金提出的“Web3 Stack”的多层次分类，Web3 Stack有2018、2019两个版本。
+- 复杂的有MultiCoin基金提出的“Web3 Stack”的多层次分类，Web3 Stack有2018、[2019](https://multicoin.capital/2019/12/13/the-web3-stack-2019-edition/)两个版本。
 
 - 企业以太坊基金会也有一个企业以太坊架构堆栈（The Enterprise Ethereum Architecture Stack，[EEAS](https://entethalliance.org/wp-content/uploads/2019/10/arc-stack-pdf.pdf)）。
 
