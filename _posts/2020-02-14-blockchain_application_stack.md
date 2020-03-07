@@ -26,10 +26,10 @@ image: assets/postimages/books-3322275_1280.jpg
 
 我们认为，区块链整个技术堆栈可以分成四层，每层又可细分成三组。自上而下各层分别是：
 
-- 网络与基础设施（Infrastructure Stack）
-- 链层（Blockchain Stack）
-- 中间件（Middleware Stack）
-- 用户层（Client Stack）
+0. 网络与基础设施（Infrastructure Stack）
+1. 链层（Blockchain Stack）
+2. 中间件（Middleware Stack）
+3. 用户层（Client Stack）
 
 各层又可进一步细分：
 
