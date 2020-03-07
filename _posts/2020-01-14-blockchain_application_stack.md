@@ -6,6 +6,8 @@ categories: [ primer ]
 image: assets/postimages/books-3322275_1280.jpg
 ---
 
+网络、链、中间件、用户
+
 区块链带来的底层技术的变革，它正在重构一整套的技术堆栈。这里，综合行业的研究，我们梳理提出一个“区块链应用堆栈”（Blockchain Application Stack）。
 
 之前对于区块链技术应用的分层有多个：
