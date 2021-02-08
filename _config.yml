@@ -65,6 +65,8 @@ collections:
     output: true
   contracts:
     output: true
+  101blockchain:
+    output: true
 
 # Syntax
 markdown: kramdown
