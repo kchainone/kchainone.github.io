@@ -3,7 +3,7 @@ layout: post
 title:  "场景：数字票据交易平台"
 author: jane
 image: block100/images/commercialbill02.png
-categories: [ Block100 ]
+categories: [ 101blockchain ]
 tags: 
 description: 票据是适合使用区块链技术的金融场景。
 ---
